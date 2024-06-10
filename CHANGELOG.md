@@ -1,3 +1,6 @@
+## [2.0.4]
+- Added rate limiter (credits to James McIntosh)
+
 ## [2.0.3]
 - Added throttler (credits to James McIntosh)
 
